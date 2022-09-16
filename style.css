@@ -1,0 +1,42 @@
+body {
+    background-color: #DEFDE0;
+}
+
+.loginbox {
+	float: right;
+	border: 1px solid #ccc;
+}
+
+.r {
+	text-align: right;
+}
+
+.l {
+    text-align: left;
+}
+
+.q {
+    text-align: left;
+    font-style: italic;
+	max-width: 550px;
+	padding: 10px;
+	border: 72px;
+}
+}
+.bx {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 700px;
+}
+
+table.b {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+
+/* important */
+td.imp {
+			border: 1px solid black;
+			text-align: left;
+			background-color:#00FF00;
+		} 
